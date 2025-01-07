@@ -29,8 +29,17 @@ Before running the project, ensure you have the following installed:
    ```bash
    git clone https://github.com/katway17/simple-blog.git
 
- Navigate to the Project Directory: cd simple-blog  
- Install Dependencies: npm install
- Run the Application: node index.js
- Or, if you have nodemon installed: nodemon index.js
- View in the Browser: Open your browser and navigate to: localhost:3000
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd simple-blog
+
+3. **Install Dependencies**:
+   ```bash
+   npm install
+
+4. **Run the Application**:
+   ```bash
+   node index.js  
+ 
+5. **View in the Browser**:
+ Open your browser and navigate to: [localhost:3000](http://localhost:3000)
